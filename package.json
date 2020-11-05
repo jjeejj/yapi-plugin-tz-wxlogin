@@ -1,0 +1,20 @@
+{
+  "name": "yapi-plugin-tz-wxlogin",
+  "version": "1.0.0",
+  "description": "yapi 兔展 微信登录插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjeejj/yapi-plugin-tz-wxlogin.git"
+  },
+  "author": "jiangwenjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjeejj/yapi-plugin-tz-wxlogin/issues"
+  },
+  "homepage": "https://github.com/jjeejj/yapi-plugin-tz-wxlogin#readme"
+}
